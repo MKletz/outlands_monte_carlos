@@ -1,9 +1,5 @@
 import random
 
-class Debuff:
-  def __init__(self, SwingsRemaining):
-    self.SwingsRemaining = SwingsRemaining
-
 Armor = 100
 SpecialChance = 18
 DamageMin = 28
